@@ -1,1 +1,0 @@
-Here all the projects are done only using the html. No css or Js were used.
